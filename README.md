@@ -1,4 +1,3 @@
-Certainly! Below is a basic template for a `README.md` file for your Skill Mastery Tracker project on GitHub. You can customize and expand upon it as needed.
 
 ```markdown
 # Skill Mastery Tracker
